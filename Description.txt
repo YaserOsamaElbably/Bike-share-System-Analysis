@@ -1,0 +1,6 @@
+    • Explored data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+    • Imported the data and answer interesting questions about it by computing descriptive statistics.
+    • Wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+
+
+On this project, I analyzed the bike share system data for three major states in America by taking inputs from users on the basis of which the data are filtered and some descriptive statistics are conducted on them.
